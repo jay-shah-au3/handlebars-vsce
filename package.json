@@ -1,0 +1,54 @@
+{
+    "name": "handlebars-vsce",
+    "displayName": "Handlebars Snippets",
+    "description": "handlebars snippets and handlebars template generator",
+    "version": "1.0.0",
+    "publisher": "JayShah",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jay-shah-au3/handlebars-vsce.git"
+    },
+    "keywords": [
+        "snippets",
+        "template",
+        "hbs template",
+        "handlebars template",
+        "handlebars",
+        "hbs"
+      ],
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "handlebars",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "hbs",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "handlebars",
+                "path": "./snippets/template.json"
+            },
+            {
+                "language": "hbs",
+                "path": "./snippets/template.json"
+            }
+        ]
+    },
+    "icon":"images/icon.png"
+}

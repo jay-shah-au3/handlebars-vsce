@@ -45,8 +45,8 @@ Press <kbd>Tab</kbd> to trigger template commands
 
 | **Prefix**   | **Description**                                          |
 |:-----------  |:---------------------------------------------------------|                               
-| `hif`        | `Will load hbs template`                                 |
-| `hifelse`    | `Will load hbs with bootstrap4 template`                 |
+| `hbs`        | `Will load hbs template`                                 |
+| `hbs4`    | `Will load hbs with bootstrap4 template`                 |
 | `hbs4navnar` | `Will load hbs template with boostrap4 template + navabr`|
 
 ___

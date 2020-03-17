@@ -47,6 +47,6 @@ Press <kbd>Tab</kbd> to trigger template commands
 |:-----------  |:---------------------------------------------------------|                               
 | `hbs`        | `Will load hbs template`                                 |
 | `hbs4`    | `Will load hbs with bootstrap4 template`                 |
-| `hbs4navbar` | `Will load hbs template with boostrap4 template + navbar`|
+| `hbs4navbar` | `Will load hbs template with bootstrap4 template + navbar`|
 
 ___
